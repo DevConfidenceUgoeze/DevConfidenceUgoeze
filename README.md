@@ -2,6 +2,7 @@ I’m Confidence Ugoeze, a dedicated Front-End Web Developer with a passion for 
 I specialize in HTML, JavaScript, and React, bringing creative ideas to life through modern, scalable, and maintainable front-end solutions.
 
 Beyond coding, I find inspiration in traveling, reading, and yes — occasionally sleeping and eating well to recharge and stay creative.
+
 ✨I Build user-friendly and accessible web applications
 ⚛️I Craft modular, reusable React components
 🎨I Combine creativity and code to deliver great UI/UX experiences
