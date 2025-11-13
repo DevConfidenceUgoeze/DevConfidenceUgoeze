@@ -3,6 +3,7 @@ I specialize on building performant and visually engaging interfaces using HTML,
 
 
 🧠 What I Do
+
 ✨I Build user-friendly and accessible web applications
 ⚛️I Craft modular, reusable React components
 🎨I Combine creativity and code to deliver great UI/UX experiences
@@ -10,17 +11,20 @@ I specialize on building performant and visually engaging interfaces using HTML,
 
 
 🛠️ Tech Stack
+
 Languages & Tools:
 HTML · CSS · JavaScript · React · Git · VS Code
 
 
 🌱 Currently Exploring
+
 Advanced React patterns and state management
 Web performance optimization
 UI animations and transitions with Framer Motion
 
 
 📫 Let’s Connect
+
 I’m always open to collaborating on interesting projects or discussing front-end development.
 You can find me on:
 💼 LinkedIn
@@ -31,6 +35,7 @@ You can find me on:
 
 
 ⚡ Fun Fact
+
 When I’m not coding, I’m probably exploring new tech ideas or brainstorming creative web concept. I also find inspiration in traveling, reading, and yes — occasionally sleeping and eating well to recharge and stay creative.
 
 
