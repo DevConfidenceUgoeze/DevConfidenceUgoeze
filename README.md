@@ -19,7 +19,9 @@ HTML · CSS · JavaScript · React · Git · VS Code
 🌱 Currently Exploring
 
 Advanced React patterns and state management
+
 Web performance optimization
+
 UI animations and transitions with Framer Motion
 
 
@@ -27,6 +29,7 @@ UI animations and transitions with Framer Motion
 
 I’m always open to collaborating on interesting projects or discussing front-end development.
 You can find me on:
+
 💼 LinkedIn
  (www.linkedin.com/in/osondu-confidence-ugoeze-5734a333a)
 
